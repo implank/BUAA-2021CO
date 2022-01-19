@@ -1,0 +1,14 @@
+.data
+0
+
+.text
+8fb5fffc
+8fb6fff8
+02b64021
+00081021
+03e00008
+
+.symbol
+0	add
+
+.relocation

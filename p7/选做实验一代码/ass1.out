@@ -1,0 +1,28 @@
+.data
+8
+
+.text
+3c010000
+34230000
+2411000a
+24120014
+acff0000
+acf1fffc
+acf2fff8
+0007e821
+0c000000
+8fbf0000
+00024021
+11000001
+08000000
+
+.symbol
+0	%num
+0	main
+52	end
+
+.relocation
+0	num@Hi
+4	num@Lo
+32	add
+48	end
